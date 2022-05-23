@@ -36,8 +36,11 @@ When only counting 10th-12th grade, there is not much change when compared to ot
 #### Replaced Scores Effects
 
 -There is no change to math and reading scores by grade. It remains at 83.087886%
+
 -There is very little change in scores by school pending and after formatting there is no change at all
+
 -There is very little change in scores by school size and after formatting there is no change at all
+
 -There is no change to district schools and there is very little change to charter schools which is neglected after formatting
 
 ## Summary
